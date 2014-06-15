@@ -665,9 +665,9 @@ h6 {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #f6f9f7; }
+  color: #bf66a8; }
   a:hover {
-    color: #bf66a8; }
+    color: #75096c; }
 
 .nav-collapse.opened {
   max-height: 9999px; }
@@ -768,7 +768,7 @@ a {
   .gig a {
     color: black; }
     .gig a:hover {
-      color: #bf66a8; }
+      color: #75096c; }
 
 .gig__venue {
   font-weight: 700;
@@ -829,7 +829,8 @@ a {
   background: url(../img/AjaxLoader.gif) no-repeat center center; }
 
 .media__item {
-  width: 100%; }
+  width: 100%;
+  margin-bottom: 1rem; }
 
 .media__item--portrait {
   width: 49%; }
@@ -924,9 +925,12 @@ blockquote {
   background: #bf66a8;
   transition: background-color 0.5s ease;
   border-radius: 1rem;
-  display: inline-block; }
+  display: inline-block;
+  color: #f6f9f7; }
   .view-all:hover {
     background: #632954; }
+  .view-all:hover {
+    color: #bf66a8; }
 
 @media only screen and (min-width: 768px) {
   .logo {
