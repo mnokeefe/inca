@@ -1,10 +1,30 @@
 {
   "upcomingGigs": [
     {
-      "date": "2014-08-03",
-      "venue": "Blysh Festival 2014 @ Glanfa Stage, Wales Millennium Centre",
+      "date": "2015-01-24",
+      "venue": "The Moon",
       "location": "Cardiff",
-      "url": "http://www.wmc.org.uk/"
+      "url": "http://www.themoonclub.net/"
+    },
+    {
+      "date": "2015-01-28",
+      "venue": "The Bell Inn",
+      "location": "Bath",
+      "url": "http://www.thebellinnbath.co.uk/"
+    },
+    {
+      "date": "2015-08-31",
+      "venue": "Aberjazz 2015",
+      "location": "Fishguard",
+      "url": "http://www.aberjazz.com/"
+    }
+  ],
+  "pastGigs": [
+    {
+      "date": "2014-08-30",
+      "venue": "Folkfest 2014",
+      "location": "Burnham-on-Sea",
+      "url": "http://www.folkfest.co.uk/"
     },
     {
       "date": "2014-08-08",
@@ -13,13 +33,11 @@
       "url": "http://www.boomtownfair.co.uk/home"
     },
     {
-      "date": "2014-08-30",
-      "venue": "Folkfest 2014",
-      "location": "Burnham-on-Sea",
-      "url": "http://www.folkfest.co.uk/"
-    }
-  ],
-  "pastGigs": [
+      "date": "2014-08-03",
+      "venue": "Blysh Festival 2014 @ Glanfa Stage, Wales Millennium Centre",
+      "location": "Cardiff",
+      "url": "http://www.wmc.org.uk/"
+    },
     {
       "date": "2014-05-29",
       "venue": "Sunrise Celebration 2014",
