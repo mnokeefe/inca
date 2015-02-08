@@ -1,16 +1,16 @@
 {
   "upcomingGigs": [
     {
-      "date": "2015-01-24",
-      "venue": "The Moon",
-      "location": "Cardiff",
-      "url": "http://www.themoonclub.net/"
+      "date": "2015-05-02",
+      "venue": "Troyfest 2015, Baskerville Hall",
+      "location": "Near Hay-On-Wye",
+      "url": "http://troyfest.co.uk/"
     },
     {
-      "date": "2015-01-28",
-      "venue": "The Bell Inn",
-      "location": "Bath",
-      "url": "http://www.thebellinnbath.co.uk/"
+      "date": "2015-05-15",
+      "venue": "Gwdihw",
+      "location": "Cardiff",
+      "url": "http://www.gwdihw.co.uk/"
     },
     {
       "date": "2015-08-31",
@@ -20,6 +20,18 @@
     }
   ],
   "pastGigs": [
+    {
+      "date": "2015-01-28",
+      "venue": "The Bell Inn",
+      "location": "Bath",
+      "url": "http://www.thebellinnbath.co.uk/"
+    },
+    {
+      "date": "2015-01-24",
+      "venue": "The Moon",
+      "location": "Cardiff",
+      "url": "http://www.themoonclub.net/"
+    },
     {
       "date": "2014-08-30",
       "venue": "Folkfest 2014",
