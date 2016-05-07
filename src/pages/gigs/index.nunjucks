@@ -1,0 +1,44 @@
+{% extends "layout.nunjucks" %}
+
+{% block title %}Gigs{% endblock %}
+
+{% block content %}
+  <h1 class="main-title">Gigs</h1>
+
+  <section class="section">
+    <h2>Upcoming</h2>
+    <ol class="gigs">
+      {% for item in upcomingGigs %}
+        <li class="gig">
+          <span class="gig__date">{{ item.date | date }}</span>
+          
+          {% if item.url %}
+            <a class="gig__venue" href="{{ item.url }}">{{ item.venue }}</a>
+          {% else %}
+            <span class="gig__venue">{{ item.venue }}</span>
+          {% endif %}
+          
+          <span>- {{ item.location }}</span>
+        </li>
+      {% endfor %}
+    </ol>
+
+    <h2>Past</h2>
+    <ol class="gigs">
+      {% for item in pastGigs %}
+        <li class="gig">
+          <span class="gig__date">{{ item.date | date }}</span>
+          
+          {% if item.url %}
+            <a class="gig__venue" href="{{ item.url }}">{{ item.venue }}</a>
+          {% else %}
+            <span class="gig__venue">{{ item.venue }}</span>
+          {% endif %}
+
+          <span>- {{ item.location }}</span>
+        </li>
+      {% endfor %}
+    </ol>
+  </section>
+
+{% endblock %}

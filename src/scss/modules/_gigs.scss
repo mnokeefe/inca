@@ -1,0 +1,38 @@
+// Gigs
+////////////////////////////////////////////////////////////////////////////////
+
+.gigs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.gig {
+  padding: 1rem;
+  color: $black;
+  background: $white;
+  margin-bottom: 0.5rem;
+  a {
+    color: $black;
+    &:hover {
+      color: $link-hover-colour;
+    }
+  }
+}
+
+.gig__venue {
+  font-weight: 700;
+  display: inline-block;
+}
+
+.gig__date {
+  display: block;
+  @include respond-to(medium-up) {
+    display: inline-block;
+    width: 10rem;
+  }
+}
+
+.gig__fb-event {
+  float: right;
+}

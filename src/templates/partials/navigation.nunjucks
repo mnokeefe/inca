@@ -1,0 +1,12 @@
+<nav class="main-nav nav-collapse">
+  <ul class="main-nav__wrapper">
+    <li class="main-nav__item"><a href="/">Home</a></li>
+    <li class="main-nav__item"><a href="/about">About us</a></li>
+    <li class="main-nav__item"><a href="/gigs">Gigs</a></li>
+    <li class="main-nav__item"><a href="/music">Sounds</a></li>
+    <li class="main-nav__item"><a href="/media">Photos & Videos</a></li>
+    <li class="main-nav__social"><a href="https://twitter.com/Incawales"><img src="../images/twitter.png"></a></li>
+    <li class="main-nav__social"><a href="https://www.facebook.com/Incawales"><img src="../images/facebook.png"></a></li>
+    <li class="main-nav__social"><a href="https://soundcloud.com/inc-a"><img src="../images/soundcloud.png"></a></li>
+  </ul>
+</nav> 
