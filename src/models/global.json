@@ -5,9 +5,21 @@
       "venue": "Truefest 2016",
       "location": "Baskerville Hall, near Hay-On-Wye",
       "url": "http://www.truefest.co.uk/"
+    },
+        {
+      "date": "2016-08-21",
+      "venue": "Greenman 2016",
+      "location": "Brecon Beacons, Wales",
+      "url": "http://www.greenman.net/"
     }
   ],
   "pastGigs": [
+    {
+      "date": "2016-06-24",
+      "venue": "Ten Feet Tall",
+      "location": "Cardiff",
+      "url": "http://10feettall.co.uk/"
+    },
     {
       "date": "2016-05-05",
       "venue": "Gwdihw",
