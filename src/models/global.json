@@ -1,22 +1,28 @@
 {
   "upcomingGigs": [
+  ],
+  "pastGigs": [
+    {
+      "date": "2016-11-26",
+      "venue": "The Moon Club",
+      "location": "Cardiff",
+      "url": "http://www.themoonclub.net/"
+    },
     {
       "date": "2016-11-05",
       "venue": "Brickstock",
       "location": "Brickworks, Cardiff",
       "url": "http://www.brickstockcardiff.com/"
-    }
-  ],
-  "pastGigs": [
-      {
+    },
+    {
       "date": "2016-08-06",
       "venue": "Truefest 2016",
       "location": "Baskerville Hall, near Hay-On-Wye",
       "url": "http://www.truefest.co.uk/"
     },
-        {
+    {
       "date": "2016-08-21",
-      "venue": "Greenman 2016",
+      "venue": "Chai Wallahs @ Greenman 2016",
       "location": "Brecon Beacons, Wales",
       "url": "http://www.greenman.net/"
     },

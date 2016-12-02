@@ -6,7 +6,7 @@
   <h1 class="main-title">Gigs</h1>
 
   <section class="section">
-    <h2>Upcoming</h2>
+    <!--<h2>Upcoming</h2>
     <ol class="gigs">
       {% for item in upcomingGigs %}
         <li class="gig">
@@ -21,7 +21,7 @@
           <span>- {{ item.location }}</span>
         </li>
       {% endfor %}
-    </ol>
+    </ol>-->
 
     <h2>Past</h2>
     <ol class="gigs">
